@@ -7,7 +7,7 @@ public class Agent_method {
         this.numAction = nAction;
     }
 
-    protected int getAction(double pastReward) {
+    protected int getAction(double pastReward, int pastActionId) {
         //TODO: return a number between 0 and nAction as the id of desiring action
 
         return 0;

@@ -9,7 +9,8 @@ modify file: Agent_method.java
 
 - given:
   - the total number of actions by *Construtor method*: **nAction**
-  - the reward of the previous action taken: **pastReward**, this value is **zero** when this function is called the first time
+  - the reward of the previous action taken: **pastReward**, this value is **0** when this function is called the first time
+  - the id of the previous action taken: **pastActionId**, this value is **-1** when this function is called the first time
 - the body of the class is yours to design, create table of values, create method to compute information returns...
 - return the id of the action you choose
 

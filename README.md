@@ -15,3 +15,7 @@ modify: **Agent_method.java**
 - return the id of the action you choose
 
 *Notice*: Consider both **exploration** and **exploitation** for the best performance
+
+😏 feel free to create new classes to support your code
+
+🚫 please, do not change the nature of the function **getAction**. Meaning, the inputs and outputs must be kept still

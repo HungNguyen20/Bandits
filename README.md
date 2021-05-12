@@ -1,11 +1,11 @@
-# Bandits
+# Bandits simulator lab01
 
-# Run simulator:
+## Run simulator:
 bash run.sh
 
 ## How to complete:
 
-modify file: Agent_method.java
+modify: **Agent_method.java**
 
 - given:
   - the total number of actions by *Construtor method*: **nAction**

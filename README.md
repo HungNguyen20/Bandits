@@ -7,6 +7,8 @@ After assuring your requirements, run in your terminal: **bash run.sh**
 
 For those who use window operating system, search keywords "compile java command line window" for more detail.
 
+Another ultility you can use is [this online coding website](https://replit.com/), make sure to include *run.sh* file so that you can execute the program with **bash run.sh**
+
 
 ## How to complete:
 

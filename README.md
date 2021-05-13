@@ -21,6 +21,16 @@ modify: **Agent_method.java**
 
 *Notice*: Consider both **exploration** and **exploitation** for the best performance
 
+## After Simulation:
+
+The program is coded to produce a trace file, namely **result.csv** where all the information during the simulation is printed.
+
+Also, at the end of the simulation, you are expected to see your own *score* at the bottom of the terminal output.
+
+🏁 For more competitive results and figures, you can submit file **Agent_method.java** upto [this website](http://202.191.57.62:8501/) where your codes will be tested with multiple scripts, your scores are ranked with others.
+
+## General warning:
+
 😏 feel free to create new classes to support your code
 
 🚫 please, do not change the nature of the function **getAction**. Meaning, the inputs and outputs must be kept still

@@ -8,8 +8,20 @@ public class Agent_method {
     }
 
     protected int getAction(double pastReward, int pastActionId) {
-        //TODO: return a number between 0 and nAction as the id of desiring action
-
+        if (pastActionId >= 0) {
+            int yourAction;
+            //TODO: return a number between 0 and nAction as the id of desiring action
+            
+            
+            
+            
+            
+            
+            
+            
+            assert yourAction >= 0 && yourAction <= nAction : "False action taken";
+            return yourAction;   
+        }
         return 0;
     }
 }

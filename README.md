@@ -1,7 +1,12 @@
 # Bandits simulator lab01
 
-## Run simulator:
-bash run.sh
+## How to run simulator:
+⚠️ Your computer is required to have jdk (jre + javac), without whom the simulator can not be executed. 
+
+After assuring your requirements, run in your terminal: **bash run.sh**
+
+For those who use window operating system, search keywords "compile java command line window" for more detail.
+
 
 ## How to complete:
 

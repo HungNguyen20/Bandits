@@ -1,5 +1,10 @@
 # Bandits simulator lab01
 
+## About this Multi-Armed Bandits problem:
+1. Multi-Armed Bandits is a classical game where there exists an Agent with K different actions which can be activated by choice, one at a time. When an action is taken, the Agent interacts with the environment by that particular action. The environment then will produce a signal as the reward for the corresponding actions, this reward may follow a  random distribution.
+2. The Agent repeats this process for T rounds, each round one action.
+3. The goal is to maximize the total sum of the receiving rewards. 
+
 ## How to run simulator:
 ⚠️ Your computer is required to have jdk (jre + javac), without whom the simulator can not be executed. 
 
@@ -9,10 +14,9 @@ For those who use window operating system, search keywords "compile java command
 
 Another ultility you can use is [this online coding website](https://replit.com/), make sure to include *run.sh* file so that you can execute the program with **bash run.sh**
 
-
 ## How to complete:
 
-modify: **Agent_method.java**
+finish: **Agent_method.java**
 
 - given:
   - the total number of actions by *Construtor method*: **nAction**

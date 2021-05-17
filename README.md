@@ -35,6 +35,8 @@ Also, at the end of the simulation, you are expected to see your own *score* at 
 
 🏁 For more competitive results and figures, you can submit file **Agent_method.java** upto [this website](http://202.191.57.62:8501/) where your codes will be tested with multiple scripts, your scores are ranked with others.
 
+🏁 **About submittion onto ranking website**: Make sure your solution is legid, as once you submit your solution, its score is cummulatively computed. Meaning, your score is the average score of all submittions.
+
 ## General warning:
 
 😏 feel free to create new classes to support your code

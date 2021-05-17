@@ -19,7 +19,7 @@ public class Agent_method {
             
             
             
-            assert yourAction >= 0 && yourAction < nAction : "False action taken";
+            assert yourAction >= 0 && yourAction < numAction : "False action taken";
             return yourAction;   
         }
         return 0;
